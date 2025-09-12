@@ -1,0 +1,36 @@
+# Node
+/backend/node_modules
+/frontend/node_modules
+
+# Python
+__pycache__/
+*.pyc
+
+# Vite
+/dist
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Build
+build/
+
+# Others
+frontend/node_modules/
+
+venv/

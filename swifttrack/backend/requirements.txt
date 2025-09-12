@@ -1,0 +1,9 @@
+flask
+flask-socketio
+flask-jwt-extended
+sqlalchemy
+psycopg2-binary
+kafka-python
+zeep
+requests
+python-socketio
